@@ -13,7 +13,7 @@ setup(
     license='MIT',
     author='trueneu',
     author_email='true.neu@gmail.com',
-    description="The music learner's metronome",
+    description="The music learner's metronome with double/half tempo feature",
     platforms='Posix; MacOS X',
     classifiers=[
         'Development Status :: 3 - Alpha',
