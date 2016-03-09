@@ -150,7 +150,7 @@ class ClickTimerThread(threading.Thread):
 
 class Metronomiconic(object):
     #_version = version.__version__
-    _version = "0.0.1"
+    _version = "0.0.2"
 
     _help_message = """
 Metronomiconic {v}

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import metronomiconic
+from metronomiconic import metronomiconic
 
 def main():
     metronome = metronomiconic.Metronomiconic()
