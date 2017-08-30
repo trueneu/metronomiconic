@@ -36,7 +36,7 @@ A collection of default click sounds from popular DAWs can be found [here](https
 The reason I do not include them in distribution in simple: they are not free,
 and the free ones I've heard... well I don't like them.
 
-You're ready to go. Type `metronomic` in your favorite terminal emulator.
+You're ready to go. Type `metronomiconic` in your favorite terminal emulator.
 
 Press space bar to stop or start. Use arrow keys and arrow keys with shift to change tempo.
 Use digits, alt+up and alt+down to change time signature (1 to 9 for beat count
